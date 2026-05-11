@@ -137,7 +137,7 @@ lean-multisig-py = { git = "https://github.com/anshalshukla/leanMultisig-py", br
 
 [dependency-groups]
 test = [
-    "pytest>=8.3.3,<9",
+    "pytest>=9.0.3,<10",
     "pytest-cov>=6.0.0,<7",
     "pytest-xdist>=3.6.1,<4",
     "pytest-asyncio>=1.0.0",
